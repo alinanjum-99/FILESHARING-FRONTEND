@@ -1,3 +1,3 @@
 # FILESHARING-FRONTEND
-![example.vid](frontendexamplevid.mp4)
+![](frontendexamplevid.mp4)
 
